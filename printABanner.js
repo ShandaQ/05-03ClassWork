@@ -8,3 +8,8 @@
 
 var str = "Welcome to Digital Crafts";
 var strLenght = str.length;
+
+for(var i = 0; i < strLenght; i++){
+  var row = '';
+  for(var j = 0; j < strLenght; j++){
+console.log()

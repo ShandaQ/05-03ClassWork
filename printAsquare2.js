@@ -9,7 +9,7 @@
 ```*/
 /*STING OF * USE CONCAT*/
 
-var n = 3;
+var n = 10;
 
 for(var i = 0; i < n; i++){
   var row = "";
@@ -18,3 +18,5 @@ for(var i = 0; i < n; i++){
   }
    console.log(row);
 }
+
+console.log();
